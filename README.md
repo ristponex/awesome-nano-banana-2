@@ -15,7 +15,7 @@ A curated collection of resources, prompts, tools, and guides for **Nano Banana 
 
 ---
 
-### 🚀 Generate Nano Banana 2 Images from $0.072/request — Cheaper than Google Official for 2K/4K!
+### 🚀 Generate Nano Banana 2 Images from $0.072/image — Cheaper than Google Official for 2K/4K!
 
 **[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)** offers flat $0.072 pricing for ALL resolutions up to 4K — **52% cheaper** than Google for 4K images. Uncensored. All Google models available. **25% bonus** on first top-up!
 

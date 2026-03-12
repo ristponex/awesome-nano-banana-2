@@ -15,7 +15,7 @@
 
 ---
 
-### 🚀 Nano Banana 2 이미지 생성 $0.072/회부터 — 2K/4K는 Google 공식보다 저렴!
+### 🚀 Nano Banana 2 이미지 생성 $0.072/장부터 — 2K/4K는 Google 공식보다 저렴!
 
 **[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)**는 모든 해상도(최대 4K) 균일 $0.072 — 4K 이미지 Google 공식 대비 **52% 저렴**. 콘텐츠 제한 없음. 모든 Google 모델 이용 가능. 첫 충전 **25% 보너스**!
 

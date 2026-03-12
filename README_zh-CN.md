@@ -15,7 +15,7 @@
 
 ---
 
-### 🚀 Nano Banana 2 图像生成低至 $0.072/次 —— 2K/4K 比 Google 官方更便宜！
+### 🚀 Nano Banana 2 图像生成低至 $0.072/张 —— 2K/4K 比 Google 官方更便宜！
 
 **[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)** 提供所有分辨率（最高 4K）统一 $0.072 定价 —— 4K 图片比 Google 官方**便宜 52%**。无内容审查限制。所有 Google 模型可用。首次充值**赠送 25%**！
 

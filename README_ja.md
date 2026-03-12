@@ -15,7 +15,7 @@
 
 ---
 
-### 🚀 Nano Banana 2 画像生成 $0.072/回〜 — 2K/4K は Google 公式より安い！
+### 🚀 Nano Banana 2 画像生成 $0.072/枚から — 2K/4K は Google 公式より安い！
 
 **[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)** は全解像度（最大 4K）一律 $0.072 — 4K 画像は Google 公式より**52% 安い**。コンテンツ制限なし。全 Google モデル利用可能。初回チャージ**25% ボーナス**！
 
