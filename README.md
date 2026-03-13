@@ -17,9 +17,9 @@ A curated collection of resources, prompts, tools, and guides for **Nano Banana 
 
 ### 🚀 Generate Nano Banana 2 Images from $0.072/image — Cheaper than Google Official for 2K/4K!
 
-**[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)** offers flat $0.072 pricing for ALL resolutions up to 4K — **52% cheaper** than Google for 4K images. Uncensored. All Google models available. **25% bonus** on first top-up!
+**[Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-nano-banana-2)** offers flat $0.072 pricing for ALL resolutions up to 4K — **52% cheaper** than Google for 4K images. Uncensored. All Google models available. **25% bonus** on first top-up!
 
-**[👉 Start Generating Now](https://www.atlascloud.ai?ref=JPM683)**
+**[👉 Start Generating Now](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-nano-banana-2)**
 
 > 🔒 **Enterprise-Grade Security** — Atlas Cloud is **SOC I & II Certified** | **HIPAA Compliant** | US-based company with 99.9% uptime SLA.
 
@@ -767,7 +767,7 @@ Atlas Cloud offers a **25% bonus on your first recharge** (up to $100 bonus). Th
 
 > With the first-time bonus, your effective rate drops to **$0.058 per image** at ANY resolution — that's **62% cheaper** than Google's 4K pricing!
 
-**[👉 Claim Your 25% Bonus on Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)**
+**[👉 Claim Your 25% Bonus on Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-nano-banana-2)**
 
 ### Atlas Cloud vs fal.ai — Price Comparison
 
@@ -805,7 +805,7 @@ Atlas Cloud provides access to Google's complete image generation lineup:
 
 > All models support text-to-image generation. Developer variants available for Nano Banana 2 (text-to-image and edit).
 
-**[👉 Explore All Models on Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)**
+**[👉 Explore All Models on Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-nano-banana-2)**
 
 ---
 
@@ -824,7 +824,7 @@ Atlas Cloud provides access to Google's complete image generation lineup:
 
 ### Tools & Libraries
 
-- **[Atlas Cloud API](https://www.atlascloud.ai?ref=JPM683)** — Cost-effective API access to Nano Banana 2 and all Google image models
+- **[Atlas Cloud API](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-nano-banana-2)** — Cost-effective API access to Nano Banana 2 and all Google image models
 - **[ComfyUI-NanoBanana](https://github.com/comfyanonymous/ComfyUI)** — ComfyUI integration for Nano Banana 2
 - **[NB2-Gradio](https://huggingface.co/spaces)** — Gradio web UI for quick testing
 - **[nb2-batch](https://github.com/)** — Batch processing tool for Nano Banana 2
@@ -833,8 +833,8 @@ Atlas Cloud provides access to Google's complete image generation lineup:
 ### Tutorials & Articles
 
 - [How to Use Nano Banana 2 for Product Photography](https://blog.google/) — Google AI Blog
-- [Nano Banana 2: A Complete Guide](https://www.atlascloud.ai?ref=JPM683) — Atlas Cloud Blog
-- [Nano Banana 2 vs Flux vs Midjourney: The Ultimate Comparison](https://www.atlascloud.ai?ref=JPM683) — Atlas Cloud
+- [Nano Banana 2: A Complete Guide](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-nano-banana-2) — Atlas Cloud Blog
+- [Nano Banana 2 vs Flux vs Midjourney: The Ultimate Comparison](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-nano-banana-2) — Atlas Cloud
 - [Mastering Multi-Reference Image Generation](https://ai.google.dev/) — Google Developers
 
 ### Communities
@@ -904,7 +904,7 @@ Yes. Nano Banana 2 includes a dedicated editing mode that can perform style tran
 | ✅ **25% Bonus** | On first top-up (up to $100) |
 | ✅ **Flat Pricing** | $0.072 for ANY resolution up to 4K |
 
-### [👉 Start Generating on Atlas Cloud](https://www.atlascloud.ai?ref=JPM683)
+### [👉 Start Generating on Atlas Cloud](https://www.atlascloud.ai?ref=JPM683&utm_source=github&utm_campaign=awesome-nano-banana-2)
 
 ---
 
