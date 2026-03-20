@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-[![Stars](https://img.shields.io/github/stars/your-org/awesome-nano-banana-2?style=social)](https://github.com/your-org/awesome-nano-banana-2)
+[![Stars](https://img.shields.io/github/stars/your-org/awesome-nano-banana-2?style=social)](https://github.com/ristponex/awesome-nano-banana-2)
 
 **Nano Banana 2**의 리소스, 프롬프트, 도구, 가이드를 엄선한 컬렉션 — Google Gemini 3.1 Flash Image 모델, 역대 가장 빠른 AI 이미지 생성기.
 

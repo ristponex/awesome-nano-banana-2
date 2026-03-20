@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-[![Stars](https://img.shields.io/github/stars/your-org/awesome-nano-banana-2?style=social)](https://github.com/your-org/awesome-nano-banana-2)
+[![Stars](https://img.shields.io/github/stars/your-org/awesome-nano-banana-2?style=social)](https://github.com/ristponex/awesome-nano-banana-2)
 
 精心整理的 **Nano Banana 2** 资源、提示词、工具和指南合集 —— Google Gemini 3.1 Flash Image 模型，公认最快的 AI 图像生成器。
 

@@ -7,7 +7,7 @@
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-[![Stars](https://img.shields.io/github/stars/your-org/awesome-nano-banana-2?style=social)](https://github.com/your-org/awesome-nano-banana-2)
+[![Stars](https://img.shields.io/github/stars/your-org/awesome-nano-banana-2?style=social)](https://github.com/ristponex/awesome-nano-banana-2)
 
 A curated collection of resources, prompts, tools, and guides for **Nano Banana 2** — Google's Gemini 3.1 Flash Image model, the fastest AI image generator ever built.
 
